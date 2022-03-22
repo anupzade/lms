@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite>
+ <test_case name="verify Course Create functionality for valid data With FireFox" tcid="tc104" execute="1">
+    <step>
+      <parameter>browsername=ch32,http://192.168.91.27:8010/default.aspx,use_sg=yes,RunOn=LocalHost,Expected=SBDC</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=7-7</parameter>
+      <name>gadgetscreate</name>
+    </step>
+</test_case>
+    <test_case name="verify Course Create functionality for valid data With FireFox" tcid="tc104" execute="0">
+    <step>
+      <parameter>browsername=ff,url=http://192.168.91.27:8010/default.aspx</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>coursecreate</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>logout</name>
+    </step>
+    </test_case>
+    <test_case name="verify Course Content functionality for valid data With FireFox" tcid="tc104" execute="0">
+    <step>
+      <parameter>browsername=ff,url=http://192.168.91.27:8010/default.aspx</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>coursecontent</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>logout</name>
+    </step>
+    </test_case>
+    <test_case name="verify Course Create functionality for valid data With FireFox" tcid="tc104" execute="0">
+    <step>
+      <parameter>browsername=ch32,url=http://192.168.91.27:8010/default.aspx</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=4-4</parameter>
+      <name>coursecreate</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>logout</name>
+    </step>
+    </test_case>
+    <test_case name="verify Course Content functionality for valid data With FireFox" tcid="tc104" execute="0">
+    <step>
+      <parameter>browsername=ch32,url=http://192.168.91.27:8010/default.aspx</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=2-2</parameter>
+      <name>coursecontent</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>logout</name>
+    </step>
+    </test_case>
+    
+    <test_case name="verify Login functionality for valid data With Internet Explorer" tcid="tc104" execute="0">
+    <step>
+      <parameter>browsername=ie32,url=http://192.168.91.27:8010/default.aspx</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>coursecreate</name>
+    </step>
+     </test_case>
+   <test_case name="verify Login functionality for valid data With Google Chrome" tcid="tc104" execute="0">
+    <step>
+      <parameter>browsername=ch32,url=http://192.168.91.27:8010/default.aspx</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>logout</name>
+    </step>
+    </test_case>
+  
+  <test_case name="verify login functionality for valid username and password" tcid="tc101" execute="0">
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>url=jdbc://DBSERVER03//MSSQL2012/LMSCoreNew</parameter>
+      <name>dbconnection</name>
+    </step>
+    </test_case>
+  <test_case name="verify Create Country functionality for valid data" tcid="tc102" execute="0">
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=7-7</parameter>
+      <name>countrycreate</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>logout</name>
+    </step>
+  </test_case>
+  <test_case name="verify Create State functionality for valid data" tcid="tc103" execute="0">
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=4-4</parameter>
+      <name>statescreate</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>logout</name>
+    </step>
+  </test_case>
+  <test_case name="verify Create City functionality for valid data" tcid="tc104" execute="0">
+    <step>
+      <parameter>browsername1=ff,url=http://192.168.91.27:8010/default.aspx</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=4-4</parameter>
+      <name>citycreate</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>logout</name>
+    </step>
+  </test_case>
+  <test_case name="verify creation of a new LHI" tcid="tc102" execute="0">
+    <step>
+      <parameter>browsername=ff,url=http://elm.cloudapp.net</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-2</parameter>
+      <name>Company Creation</name>
+    </step>
+  </test_case>
+</suite>

@@ -1,0 +1,28 @@
+countrycode=India,statecode=Andhra Pradesh,statename=Andhra Pradesh
+countrycode=India,statecode=Arunachal Pradesh,statename=Arunachal Pradesh
+countrycode=India,statecode=Assam,statename=Assam
+countrycode=India,statecode=Bihar,statename=Bihar
+countrycode=India,statecode=Chhattisgarh,statename=Chhattisgarh
+countrycode=India,statecode=Goa,statename=Goa
+countrycode=India,statecode=Gujarat,statename=Gujarat
+countrycode=India,statecode=Haryana,statename=Haryana
+countrycode=India,statecode=Himachal Pradesh,statename=Himachal Pradesh
+countrycode=India,statecode=Jammu and Kashmir,statename=Jammu and Kashmir
+countrycode=India,statecode=Jharkhand,statename=Jharkhand
+countrycode=India,statecode=Karnataka,statename=Karnataka
+countrycode=India,statecode=Kerala,statename=Kerala
+countrycode=India,statecode=Madhya Pradesh,statename=Madhya Pradesh
+countrycode=India,statecode=Maharashtra,statename=Maharashtra
+countrycode=India,statecode=Manipur,statename=Manipur
+countrycode=India,statecode=Meghalaya,statename=Meghalaya
+countrycode=India,statecode=Mizoram,statename=Mizoram
+countrycode=India,statecode=Nagaland,statename=Nagaland
+countrycode=India,statecode=Orissa,statename=Orissa
+countrycode=India,statecode=Punjab,statename=Punjab
+countrycode=India,statecode=Rajasthan,statename=Rajasthan
+countrycode=India,statecode=Sikkim,statename=Sikkim
+countrycode=India,statecode=Tamil Nadu,statename=Tamil Nadu
+countrycode=India,statecode=Tripura,statename=Tripura
+countrycode=India,statecode=Uttarakhand,statename=Uttarakhand
+countrycode=India,statecode=UttarPradesh,statename=UttarPradesh
+countrycode=India,statecode=West Bengal,statename=West Bengal

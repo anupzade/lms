@@ -1,0 +1,5 @@
+applicationname=Learn Unlearn Relearn,loginboxcolor=4081C2,menucolor=4081c2
+applicationname=Empowered Learning Platform,loginboxcolor=003259,menucolor=003259
+applicationname=Hexaware Learning Platform,loginboxcolor=DD012D,menucolor=DD012D
+applicationname=DofarBank Learning Platform,loginboxcolor=46c240,menucolor=46c240
+applicationname=AuroBindo Learning Platform,loginboxcolor=DD012D,menucolor=DD012D

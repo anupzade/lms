@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="testsuite">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="testdata">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/selenium-java-2.47.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/selenium-java-2.47.1-srcs.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/apache-mime4j-0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/bsh-1.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/cglib-nodep-2.1_3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/commons-lang3-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/commons-logging-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/cssparser-0.9.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/gson-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/guava-18.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/hamcrest-core-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/hamcrest-library-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/htmlunit-2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/htmlunit-core-js-2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/httpclient-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/httpcore-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/httpmime-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/java-mail-1.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/javax.mail-api-1.4.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/jcommander-1.29.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/jna-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/jna-platform-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/jxl-2.6.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/log4j-1.2-api-2.0-beta8.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/mail-6.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/nekohtml-1.9.22.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/netty-3.5.7.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/poi-3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/poi-3.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/sac-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/serializer-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/testng-6.8.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/xalan-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/xercesImpl-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/SELENIUM/JAR Files/SELENIUM-2.47/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

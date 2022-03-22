@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite>
+  <test_case name="verify login functionality for valid username and password" tcid="tc101" execute="1">
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-1</parameter>
+      <name>login</name>
+    </step>
+    <step>
+      <parameter>iteration=1-3</parameter>
+      <name>countrycreate</name>
+    </step>
+     <step>
+      <parameter>iteration=1-2</parameter>
+      <name>statescreate</name>
+    </step>
+    <step>
+      <parameter>iteration=1-2</parameter>
+      <name>citycreate</name>
+    </step>
+  </test_case>
+  <test_case name="verify creation of a new LHI" tcid="tc102" execute="0">
+    <step>
+      <parameter>browsername=ff,url=http://elm.cloudapp.net</parameter>
+      <name>launchapplication</name>
+    </step>
+    <step>
+      <parameter>iteration=1-2</parameter>
+      <name>Company Creation</name>
+    </step>
+  </test_case>
+</suite>

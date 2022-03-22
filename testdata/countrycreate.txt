@@ -1,0 +1,62 @@
+countrycode=ARGENTINA,countryname=ARGENTINA
+countrycode=AUSTRALIA,countryname=AUSTRALIA
+countrycode=BANGLADESH,countryname=BANGLADESH
+countrycode=BELARUS,countryname=BELARUS
+countrycode=BELGIUM,countryname=BELGIUM
+countrycode=BRAZIL,countryname=BRAZIL
+countrycode=CANADA,countryname=CANADA
+countrycode=CHILE,countryname=CHILE
+countrycode=CHINA,countryname=CHINA
+countrycode=CHINA,countryname=CHINA
+countrycode=COLOMBIA,countryname=COLOMBIA
+countrycode=dc,countryname=demoCountry
+countrycode=DOMINICAN REP,countryname=DOMINICAN REP
+countrycode=ECUADOR,countryname=ECUADOR
+countrycode=EGYPT,countryname=EGYPT
+countrycode=ERBIL,countryname=ERBIL
+countrycode=ETHIOPIA,countryname=ETHIOPIA
+countrycode=FINLAND,countryname=FINLAND
+countrycode=FRANCE,countryname=FRANCE
+countrycode=GERMANY,countryname=GERMANY
+countrycode=GHANA,countryname=GHANA
+countrycode=GUATEMALA,countryname=GUATEMALA
+countrycode=HONG KONG,countryname=HONG KONG
+countrycode=INDIA,countryname=INDIA
+countrycode=INDONESIA,countryname=INDONESIA
+countrycode=IRAQ,countryname=IRAQ
+countrycode=JAPAN,countryname=JAPAN
+countrycode=KAZAKHSTAN,countryname=KAZAKHSTAN
+countrycode=KENYA,countryname=KENYA
+countrycode=LEBANON,countryname=LEBANON
+countrycode=1,countryname=Maharashtra
+countrycode=MALAYSIA,countryname=MALAYSIA
+countrycode=MAURITIUS,countryname=MAURITIUS
+countrycode=MEXICO,countryname=MEXICO
+countrycode=MONGOLIA,countryname=MONGOLIA
+countrycode=MOROCCO,countryname=MOROCCO
+countrycode=NEPAL,countryname=NEPAL
+countrycode=NEW ZEALAND,countryname=NEW ZEALAND
+countrycode=NIGERIA,countryname=NIGERIA
+countrycode=NULL,countryname=NULL
+countrycode=NULL,countryname=NULL
+countrycode=OMAN,countryname=OMAN
+countrycode=PERU,countryname=PERU
+countrycode=PHILIPPINES,countryname=PHILIPPINES
+countrycode=QATAR,countryname=QATAR
+countrycode=RUSSIA,countryname=RUSSIA
+countrycode=SAUDI ARABIA,countryname=SAUDI ARABIA
+countrycode=SENEGAL,countryname=SENEGAL
+countrycode=SINGAPORE,countryname=SINGAPORE
+countrycode=SOUTH AFRICA,countryname=SOUTH AFRICA
+countrycode=SOUTH KOREA,countryname=SOUTH KOREA
+countrycode=SRI LANKA,countryname=SRI LANKA
+countrycode=SWITZERLAND,countryname=SWITZERLAND
+countrycode=TAIWAN,countryname=TAIWAN
+countrycode=THAILAND,countryname=THAILAND
+countrycode=TURKEY,countryname=TURKEY
+countrycode=UAE,countryname=UAE
+countrycode=UGANDA,countryname=UGANDA
+countrycode=UKRAINE,countryname=UKRAINE
+countrycode=UNITED KINGDOM,countryname=UNITED KINGDOM
+countrycode=USA,countryname=USA
+countrycode=VENEZUELA,countryname=VENEZUELA

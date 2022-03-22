@@ -1,0 +1,2 @@
+coursecategory=Health and Safety Training,coursesubcategory=Personal Safety Training,trainingtype=e-Learning,coursetitle=EL9,scorm=0,objdesc=EL,startuppage=start
+coursecategory=Health and Safety Training,coursesubcategory=Personal Safety Training,trainingtype=Resource,coursetitle=RL9
